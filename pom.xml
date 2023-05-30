@@ -19,11 +19,11 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <distributionManagement>
-      <snapshotRepository>
-	<id>snapshots</id>
-	<name>804b56ab28bb-snapshots</name>
-	<url>http://34.16.137.253:8082/artifactory/pr8101999-libs-snapshot</url>
-      </snapshotRepository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>804b56ab28bb-snapshots</name>
+        <url>http://34.16.137.253:8081/artifactory/pr8101999-libs-snapshot-local</url>
+    </snapshotRepository>
   </distributionManagement>	
   <build>
     <pluginManagement>

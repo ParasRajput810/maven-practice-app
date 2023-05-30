@@ -17,7 +17,7 @@
     <mirror>
       <mirrorOf>*</mirrorOf>
       <name>pr8101999-libs-snapshot</name>
-      <url>http://34.16.137.253:8082/artifactory/pr8101999-libs-snapshot</url>
+      <url>http://34.16.137.253:8081/artifactory/pr8101999-libs-snapshot</url>
       <id>pr8101999-libs-snapshot</id>
     </mirror>
   </mirrors>
@@ -30,13 +30,13 @@
           </snapshots>
           <id>central</id>
           <name>pr8101999-libs-release</name>
-          <url>http://34.16.137.253:8082/artifactory/pr8101999-libs-release</url>
+          <url>http://34.16.137.253:8081/artifactory/pr8101999-libs-release</url>
         </repository>
         <repository>
           <snapshots />
           <id>snapshots</id>
           <name>pr8101999-libs-snapshot</name>
-          <url>http://34.16.137.253:8082/artifactory/pr8101999-libs-snapshot</url>
+          <url>http://34.16.137.253:8081/artifactory/pr8101999-libs-snapshot</url>
         </repository>
       </repositories>
       <pluginRepositories>
@@ -46,13 +46,13 @@
           </snapshots>
           <id>central</id>
           <name>pr8101999-libs-release</name>
-          <url>http://34.16.137.253:8082/artifactory/pr8101999-libs-release</url>
+          <url>http://34.16.137.253:8081/artifactory/pr8101999-libs-release</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
           <name>pr8101999-libs-snapshot</name>
-          <url>http://34.16.137.253:8082/artifactory/pr8101999-libs-snapshot</url>
+          <url>http://34.16.137.253:8081/artifactory/pr8101999-libs-snapshot</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
