@@ -17,3 +17,4 @@ the "Deliver" stage of your Pipeline.
 Github-Webhook Demo
 
 Testing ci pipeline
+deploying code in artifactory
